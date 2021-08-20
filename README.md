@@ -6,5 +6,10 @@ This is a simple application which lets the user perform the following task :
 4.Delete Data
 
 To Use this code,
+
+install all the dependencies,
+crud>>npm install
+server>server.js>>npm install
+
 go to server>>server.js [ 15,18 ]
  and paste your own mongodb atlas connection. 
